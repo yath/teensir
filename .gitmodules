@@ -1,6 +1,3 @@
 [submodule "libraries/IRremote"]
 	path = libraries/IRremote
 	url = https://github.com/z3t0/Arduino-IRremote
-[submodule "libraries/SerialCommand"]
-	path = libraries/SerialCommand
-	url = https://github.com/kroimon/Arduino-SerialCommand
